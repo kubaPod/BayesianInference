@@ -18,6 +18,7 @@ Paclet[
             {
                 "Kernel",
                 "Context" -> {
+                    "BayesianInference`",
                     "BayesianUtilities`",
                     "BayesianStatistics`",
                     "BayesianGaussianProcess`",
